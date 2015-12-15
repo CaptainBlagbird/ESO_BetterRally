@@ -3,9 +3,13 @@
 ## Author: |c70C0DECaptainBlagbird|r
 ## APIVersion: 100013
 ## Description: Adds key binding for easier toggling of the rally point and other map pings
+## SavedVariables: BetterRallySettings
+## OptionalDependsOn: LibAddonMenu-2.0
 
 
+; Main
 BetterRally.lua
+Settings.lua
 Bindings.xml
 
 
