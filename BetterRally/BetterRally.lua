@@ -8,7 +8,7 @@ https://github.com/CaptainBlagbird
 
 -- Addon info
 BetterRally = {}
-AddonName = "BetterRally"
+local AddonName = "BetterRally"
 ZO_CreateStringId("SI_BINDING_NAME_BETTER_RALLY", "Better Rally")
 
 
