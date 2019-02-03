@@ -118,7 +118,7 @@ local function OnPlayerActivated(event)
     
     -- Setup LibAddonMenu if available
     if LibStub ~= nil then
-        local LAM = LibStub("LibAddonMenu-2.0")
+        local LAM = LibStub("LibAddonMenu-2.0", false)
         LAM:RegisterAddonPanel("BetterRally_Options", panelData)
         LAM:RegisterOptionControls("BetterRally_Options", optionsTable)
     end

@@ -4,7 +4,7 @@
 ## APIVersion: 100025
 ## Description: Adds key binding for easier toggling of the rally point and other map pings
 ## SavedVariables: BetterRallySettings
-## OptionalDependsOn: LibAddonMenu-2.0
+## OptionalDependsOn: LibStub LibAddonMenu-2.0
 
 
 ; Main
