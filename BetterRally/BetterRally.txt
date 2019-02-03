@@ -1,7 +1,7 @@
 ## Title: Better Rally |c555555v1.0|r
 ## Version: 1.0
 ## Author: |c70C0DECaptainBlagbird|r
-## APIVersion: 100022
+## APIVersion: 100025
 ## Description: Adds key binding for easier toggling of the rally point and other map pings
 ## SavedVariables: BetterRallySettings
 ## OptionalDependsOn: LibAddonMenu-2.0
